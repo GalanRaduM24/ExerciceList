@@ -11,9 +11,10 @@ The project is structured with the following files:
 
 ## Compilation and Execution
 Compile the program using a C++ compiler.
-
-`g++ -o main Main.cpp`
-
+```
+g++ -o main Main.cpp
+```
 Run the compiled program.
-
-`./main`
+```
+./main
+```
